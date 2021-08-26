@@ -1,2 +1,2 @@
 # CTLM_stats
-Control-M Statistics stored in MySQL DB
+Control-M Statistics stored in MySQL DB!
